@@ -15,5 +15,6 @@ For training the network, simply use
 # Testing
 
 The reconstruction process is automatically start after training process stopped for certain epochs.
-We provided the learned weights that has already trained, you can just comment the training part in the code.
+We provided the learned weights that can be download at https://drive.google.com/drive/folders/1Sck2-gRC_aHLXjPLq5rtZUoM3CrIGVsH?usp=sharing. 
+You will use the same code for testing, just comment the training part in the code and change the batch_size = 1.
 The output are 15 recontructed knee images as ```*.mat```.
