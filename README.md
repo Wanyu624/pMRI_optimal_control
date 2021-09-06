@@ -18,5 +18,11 @@ The reconstruction process is automatically start after training process stopped
 We provided the learned weights that can be download at
 https://drive.google.com/drive/folders/1Sck2-gRC_aHLXjPLq5rtZUoM3CrIGVsH?usp=sharing. 
 
+Testing data can be download at
+https://drive.google.com/drive/folders/1ZhZP2R9Nte6SQ0Zp_kHamrIQghg-2LZm?usp=sharing
+
+Mask can be download at
+https://drive.google.com/drive/folders/1m7Elv22xRhatToQQ3C3q_F-SD9iZMINu?usp=sharing
+
 You will use the same code ```pMRI-CNet-K-optimal_control.py``` for testing, just comment the training part in the code and change the batch_size = 1.
 The output are 15 recontructed knee images as ```*.mat```.
