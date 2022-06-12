@@ -26,3 +26,8 @@ https://drive.google.com/drive/folders/1m7Elv22xRhatToQQ3C3q_F-SD9iZMINu?usp=sha
 
 You will use the same code ```pMRI-CNet-K-optimal_control.py``` for testing, just comment the training part in the code and change the batch_size = 1.
 The output are 15 recontructed knee images as ```*.mat```.
+
+If you find this repository useful, please cite us:
+```
+Bian, Wanyu, Yunmei Chen, and Xiaojing Ye. "An optimal control framework for joint-channel parallel MRI reconstruction without coil sensitivities." Magnetic Resonance Imaging 89 (2022): 1-11.
+```
