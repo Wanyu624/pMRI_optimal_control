@@ -1,4 +1,4 @@
-# Calibration-less_pMRI_optimal_control
+# An optimal control framework for joint-channel parallel MRI reconstruction without coil sensitivities
 This work aims at developing a novel calibration-free fast parallel MRI (pMRI) reconstruction method incorporate with discrete-time optimal control framework. The reconstruction model is designed to learn a regularization that combines channels and extracts features by leveraging the information sharing among channels of multi-coil images. We propose to recover both of magnitude and phase information by taking advantage of structured multiplayer convolutional networks in  image and Fourier spaces.
 
 # Requirements
